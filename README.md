@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhan. I am Software Developer!</h1>
-<h3 align="center">I am a senior CENG student in Yildiz Technical University.</h3>
+<h1 align="center">Hi 👋, I'm Batuhan. I am Software Engineer at Peak Games!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhangulcemal&label=Profile%20views&color=0e75b6&style=flat" alt="batuhangulcemal" /> </p>
 
